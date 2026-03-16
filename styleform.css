@@ -2,6 +2,7 @@ body{
     background-image: url(frieren-background.png);
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .general-window{
